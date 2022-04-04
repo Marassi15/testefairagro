@@ -1,4 +1,4 @@
-# Repositorio de teste do GO Fair Agro
+# Repositório de teste do GO Fair Agro
 Esse repositório é feito para testar as funcionalidades que serão implementadas para o GO Fair Agro. Com o objetivo de direcionar todo o movimento, será testado o uso de recursos para fomentar discussões sobre ideais e projetos sobre o movimento. 
 
 ## Issues
